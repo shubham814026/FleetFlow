@@ -44,11 +44,6 @@ const LandingPage = () => {
                   Get Started <ArrowRight size={18} />
                 </Button>
               </Link>
-              <Link to="/dashboard">
-                <Button variant="secondary" className="border-fleet-tan/70 bg-fleet-oxford/25 text-fleet-sand hover:bg-fleet-oxford/35 dark:text-fleet-tanVivid">
-                  View Dashboard Demo
-                </Button>
-              </Link>
             </div>
           </div>
         </div>
