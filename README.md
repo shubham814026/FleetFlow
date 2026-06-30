@@ -134,6 +134,7 @@ Backend URL: `http://localhost:5000`
 
 ---
 
+
 ## API Overview
 
 - `POST /api/auth/login`
@@ -149,3 +150,5 @@ Backend URL: `http://localhost:5000`
 - `GET /api/fuel/cost/:vehicleId`
 - `GET /api/dashboard`
 - `GET /api/analytics`
+
+
